@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
